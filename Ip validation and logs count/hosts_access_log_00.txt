@@ -1,0 +1,5 @@
+burger.letter.com - - [01/jul] "Get req"
+google.com - - [01/jul] "Get req"
+yahoo.com - - [01/jul] "Get req"
+burger.letter.com - - [01/jul] "Get req"
+google.com - - [01/jul] "Get req"
